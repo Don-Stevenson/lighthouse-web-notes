@@ -3,3 +3,7 @@
 ## Summary 
 
 This repository contains all of the notes taken by Don Stevenson for the Lighthouse Labs Web Development Bootcamp.
+
+### Adding Links
+ notes taken by [Don Stevenson](https://github.com/Don-Stevenson)
+ 
